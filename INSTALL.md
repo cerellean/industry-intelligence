@@ -43,7 +43,7 @@
 1. **克隆仓库**
    ```bash
    cd ~/.openclaw/workspace/skills/
-   git clone https://github.com/your-repo/industry-intelligence.git
+   git clone https://github.com/cerellean/industry-intelligence.git
    ```
 
 ## 安装验证
